@@ -7,7 +7,7 @@ We have a C# demo, a Python demo for object detection with camera captured image
 
 The C# demo is built as a Universal Windows Platform app. Please rebuild the solution before you can run the applicaion on your PC.
 
-Two Python demos are created based on OpenCV, azure-cognitiveservices-vision-customvision, and djitellopy. Please make sure that you have created a folder named "Resources" under the same path with two Python files. Also, a folder named "Image" should be created in the "Resources".
+Two Python demos are created based on OpenCV, azure-cognitiveservices-vision-customvision, and djitellopy. Please make sure that you have created a folder named "Resources" under the same path with two Python files. Also, a folder named "Images" should be created in the "Resources".
 
 For more information, please refer to my other repositories:
 
