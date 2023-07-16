@@ -11,3 +11,6 @@ Two Python demos are created based on OpenCV, azure-cognitiveservices-vision-cus
 
 For more information, please refer to my other repositories:
 
+1. Azure Cloud Services for Tello Drones: https://github.com/shijiong/AzureCloudServices4TelloDrones
+2. Cognitive service for Raspberry Pi: https://github.com/shijiong/RPiCognitiveService
+3. Azure Cloud Services for RaspberryPi 4: https://github.com/shijiong/AzureCloudServices4RaspberryPi4
