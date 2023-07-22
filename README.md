@@ -1,5 +1,6 @@
 # AISkillsChallenge2023
 Resources for Microsoft Learn AI Skills Challenge 2023
+![image](https://github.com/shijiong/AISkillsChallenge2023/blob/main/intro.png)
 
 Microsoft Learn AI Skills Challenge has kicked off! You can enter the Challenge on this page: https://aka.ms/AISkillsChallenge?ocid=aisc23_CSC_gcr_nge.
 
